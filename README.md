@@ -5,7 +5,6 @@ The repository is structured as a DevContainer and contains the following featur
 - A Python 3.12 environment installed from the default Microsoft Devcontainer registry.
 - A Docker configuration for local and web codespaces development, including a PostgreSQL database.
 - PostgreSQL runs on its default port 5432.
-- Zsh shell
 
 ### Preinstalled Python Packages
 
