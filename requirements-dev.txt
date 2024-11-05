@@ -1,0 +1,7 @@
+-r src/requirements.txt
+black
+pytest
+pytest-cov
+coverage
+httpx
+pytest-asyncio

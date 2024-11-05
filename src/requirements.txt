@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+gunicorn
+alembic
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+python-multipart
+pydantic
+pydantic-settings
+passlib
+python-jose
